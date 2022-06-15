@@ -1,1 +1,1 @@
-# Secil_IT_HongUniv
+# Seoul_IT_HongUniv
